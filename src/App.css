@@ -1,5 +1,6 @@
 .App-header {
   margin: 30px 0;
+  text-align: center;
 }
 
 .App-logo {
@@ -11,4 +12,5 @@
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  font-weight: bold;
 }
