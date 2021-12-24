@@ -13,7 +13,24 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Natalie Corona</small>
+          <span className="open-source">
+            This project was coded by Natalie Corona, is open-sourced on{" "}
+          </span>
+          <a
+            href="https://github.com/NatCorona89/react-weather-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>{" "}
+          <span className="open-source">and hosted on </span>
+          <a
+            href="https://wizardly-thompson-80bb2a.netlify.app/"
+            target="blank"
+            rel="noopener noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
