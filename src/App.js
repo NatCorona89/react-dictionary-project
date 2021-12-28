@@ -25,7 +25,7 @@ export default function App() {
           </a>{" "}
           <span className="open-source">and hosted on </span>
           <a
-            href="https://wizardly-thompson-80bb2a.netlify.app/"
+            href="https://app.netlify.com/sites/friendly-wozniak-e483a6/overview"
             target="blank"
             rel="noopener noreferrer"
           >
