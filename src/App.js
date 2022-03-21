@@ -17,7 +17,7 @@ export default function App() {
             This project was coded by Natalie Corona, is open-sourced on{" "}
           </span>
           <a
-            href="https://github.com/NatCorona89/react-weather-project"
+            href="https://github.com/NatCorona89/Portfolio-Project"
             target="_blank"
             rel="noopener noreferrer"
           >
